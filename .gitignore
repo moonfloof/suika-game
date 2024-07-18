@@ -2,3 +2,5 @@ node_modules
 package.json
 package-lock.json
 *-raw.png
+
+.DS_Store
